@@ -14,6 +14,9 @@ As part of this phase, some NLP language model might be necessary to prepare for
 - Event extraction: similar to NER but with different tags
 - Summarisation/topic modelling: simplify claims of the parties to broader categories for analysis
 
+Research requirements:
+- PDF parsers, language models to use, information extraction methodologies
+
 ### Phase 2 - Data Analysis
 This phase aims to deepdive into the data extracted from Phase 1 and seeks to add any further text preprocessing if deemed necessary. Analysis can encompass:
 1. Breakdown of claims/evidence type from builder and customer perspectives
