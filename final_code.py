@@ -1,3 +1,9 @@
+!pip install pandas numpy PyPDF2 nltk pdfplumber
+
+from google.colab import drive
+drive.mount('/content/drive')
+folder_path = "/content/drive/MyDrive/DS_PROJ_MAST90106/data/final_data"
+
 import re
 import os
 import pandas as pd
